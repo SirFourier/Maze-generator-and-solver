@@ -1,4 +1,4 @@
-// a maze generator and solver program
+/* A maze generator and solver*/
 #include "maze.h"
 
 int main() {
