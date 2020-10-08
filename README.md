@@ -5,7 +5,9 @@ A maze generator using depth-first search with backtracker algorithm. And a maze
 Can be cloned straight to Microsoft Visual Studio to read or run code.
 
 ## Generate maze (Depth-first search with backtracker algorithm)
-![ScreenshotGenerator](Resources/Maze-generator-screenshot.png?raw=true)
+more info: https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_depth-first_search
+![ScreenshotGenerator](screenshots/Maze-generator-screenshot.png?raw=true)
 
 ## Solve maze (A* algorithm)
-![ScreenshotSolver](Resources/Maze-solve-screenshot.png?raw=true)
+more info: https://www.youtube.com/watch?v=-L-WgKMFuhE
+![ScreenshotSolver](screenshots/Maze-solve-screenshot.png?raw=true)
